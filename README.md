@@ -5,8 +5,10 @@
 ![image](https://github.com/user-attachments/assets/366cd35d-dc6b-4e69-95c1-025d51429ecd)
 
 # ScreenShot📷
-![image](https://github.com/user-attachments/assets/85278aca-b64c-4163-b18c-738b4215780e)
-![image](https://github.com/user-attachments/assets/641d33a7-98e7-4328-8746-83cf122f9e4a)
+![image](https://github.com/user-attachments/assets/9082807c-2070-4b40-8f59-02c74546ef63)
+
+![image](https://github.com/user-attachments/assets/b3b613c1-02f1-468a-923a-48246a361caf)
+
 
 
 
