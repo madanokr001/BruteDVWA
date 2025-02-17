@@ -8,16 +8,16 @@
 
 # HOW TO USE ❓
 ```
-git clone https://github.com/madanokr001/BruteFTP.git
+git clone https://github.com/madanokr001/BruteDVWA.git
 ```
 ```
-cd BruteFTP/BruteFTP
+cd BruteDVWA/BruteDVWA
 ```
 ```
 ls
 ```
 ```
-python bruteftp.py
+python main.py
 ```
 
 ## WINDOWS ✅
