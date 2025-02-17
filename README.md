@@ -23,7 +23,7 @@ cd BruteDVWA/BruteDVWA
 ls
 ```
 ```
-python main.py
+python brutedvwa.py
 ```
 
 ## WINDOWS ✅
