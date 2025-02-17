@@ -7,4 +7,23 @@
 # ScreenShot📷
 
 # HOW TO USE ❓
+```
+git clone https://github.com/madanokr001/BruteFTP.git
+```
+```
+cd BruteFTP/BruteFTP
+```
+```
+ls
+```
+```
+python bruteftp.py
+```
+
+## WINDOWS ✅
+## TERMUX ✅ 
+## LINUX ✅ 
+
+# About 🤑
+**We greatly appreciate your feedback and suggestions. Please feel free to share any thoughts you may have; your input is invaluable to us!**
 
